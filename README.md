@@ -1,1 +1,1 @@
-# RF1
+This repository is to manage a University Project for our System Development 1 course.
